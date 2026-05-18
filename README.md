@@ -1,0 +1,1 @@
+# regenerative-ranching-manager
